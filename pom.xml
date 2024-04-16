@@ -27,7 +27,7 @@
       <artifactId>javafx-fxml</artifactId>
       <version>17.0.6</version>
     </dependency>
-                <dependency>
+    <dependency>
       <groupId>com.dlsc.formsfx</groupId>
       <artifactId>formsfx-core</artifactId>
       <version>11.6.0</version>
@@ -114,6 +114,11 @@
         <version>3.25.1</version>
     </dependency>
 
+    <dependency>
+      <groupId>redis.clients</groupId>
+      <artifactId>jedis</artifactId>
+      <version>5.0.0-alpha2</version>
+    </dependency>
 
   </dependencies>
 
